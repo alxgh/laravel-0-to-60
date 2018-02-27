@@ -65,7 +65,7 @@ _index: understanding-migrations
 
 عنوان کلاس‌ها، صورت Studly Caps از همان نام فایل هستند.
 
-###### در روش [StudyCaps](https://en.wikipedia.org/wiki/Studly_caps)، حرف نخست کلمه‌ها (حتی کلمه‌ی اول) با حالت بزرگ نوشته می‌شود و همه‌ی کلمه‌ها پشت سر هم به هم می‌چسبند.
+###### در روش [StudlyCaps](https://en.wikipedia.org/wiki/Studly_caps)، حرف نخست کلمه‌ها (حتی کلمه‌ی اول) با حالت بزرگ نوشته می‌شود و همه‌ی کلمه‌ها پشت سر هم به هم می‌چسبند.
 
 # عملکرد مایگرشن
 
